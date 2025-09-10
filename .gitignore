@@ -1,7 +1,9 @@
 /.env
-/chroma_new
-/chroma_origin
-/~$tax.docx
-/chroma_original
-/chroma_with_table
-/chroma
+chroma_new
+chroma_origin
+~$tax.docx
+chroma_original
+chroma_with_table
+chroma
+chroma_card
+chroma_db
